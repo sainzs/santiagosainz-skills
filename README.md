@@ -61,6 +61,15 @@ scripts/install.sh --core-only
 - OpenCode: prefer `todowrite` for live work tracking; use external issue skills only when the user asks for a tracker.
 - Pi: prefer file-backed process state with `PLAN.md`, `STATE.md`, `VERIFY.md`, and `TODO.md`.
 
+## Research Package
+
+- [Product spec](docs/product-spec.md)
+- [Naming system](docs/naming-system.md)
+- [Runtime adapters](docs/runtime-adapters.md)
+- [Evaluation rubric](docs/evaluation-rubric.md)
+- [Research matrix](docs/research-matrix.md)
+- [Roadmap](docs/roadmap.md)
+
 ## Safety
 
 This repo intentionally excludes runtime state, sessions, auth files, logs, memories, caches, and bundled system skills.
