@@ -1,0 +1,3 @@
+display_name: "Diagnose Failures"
+short_description: "Root-cause bugs, flakes, failing checks, runtime errors, and regressions."
+default_prompt: "Use diagnose-failures. Reproduce the failure, identify root cause with evidence, fix if asked, and add regression proof."

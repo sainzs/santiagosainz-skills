@@ -1,0 +1,4 @@
+interface:
+  display_name: "chronicle"
+  short_description: "Use recent screen context when needed"
+  default_prompt: "Use Chronicle only when recent screen context is necessary to disambiguate the user's request, then switch to the primary source of truth."

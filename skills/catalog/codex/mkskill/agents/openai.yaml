@@ -1,0 +1,4 @@
+interface:
+  display_name: "mkskill"
+  short_description: "Create or improve Codex skills"
+  default_prompt: "Create or improve a Codex skill with clear triggers, concise instructions, optional resources, and validation."

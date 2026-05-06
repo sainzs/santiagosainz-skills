@@ -1,0 +1,3 @@
+display_name: "Simplify Codebase Architecture"
+short_description: "Find coupling, duplicated concepts, shallow modules, and staged refactor opportunities."
+default_prompt: "Use simplify-codebase-architecture. Review the target area through the seven-goblin lens workflow, then rank structural risks and propose small verified refactors."

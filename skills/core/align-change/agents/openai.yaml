@@ -1,0 +1,4 @@
+name: align-change
+description: Turn fuzzy change intent into decisions, constraints, and a first executable slice.
+prompt: |
+  Use the align-change skill. Resolve only the ambiguity that blocks a safe first implementation slice, then move toward execution when possible.

@@ -1,0 +1,3 @@
+display_name: "Wraith"
+short_description: "Reviews risk: diffs, plans, regressions, contracts, missing tests."
+default_prompt: "Use wraith. Review for regressions, broken contracts, missing tests, and unsafe assumptions."

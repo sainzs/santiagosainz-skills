@@ -1,0 +1,508 @@
+{
+  "name": "santiagosainz/skills",
+  "description": "Portable Codex, OpenCode, and Pi skill catalog.",
+  "version": "0.1.0",
+  "generatedFrom": {
+    "codex": "~/.codex/skills",
+    "opencode": "~/.agents/skills",
+    "pi": "~/.pi/agent/skills"
+  },
+  "installDestinations": {
+    "codex": "~/.codex/skills",
+    "opencode": "~/.agents/skills",
+    "pi": "~/.pi/agent/skills"
+  },
+  "skills": [
+    {
+      "name": "align-change",
+      "group": "core",
+      "path": "skills/core/align-change",
+      "targets": [
+        "codex",
+        "opencode",
+        "pi"
+      ],
+      "provenance": "local native Unix/Pi skill"
+    },
+    {
+      "name": "architecture-pass",
+      "group": "core",
+      "path": "skills/core/architecture-pass",
+      "targets": [
+        "codex",
+        "opencode",
+        "pi"
+      ],
+      "provenance": "local native Unix/Pi skill"
+    },
+    {
+      "name": "debug-loop",
+      "group": "core",
+      "path": "skills/core/debug-loop",
+      "targets": [
+        "codex",
+        "opencode",
+        "pi"
+      ],
+      "provenance": "local native Unix/Pi skill"
+    },
+    {
+      "name": "project-language",
+      "group": "core",
+      "path": "skills/core/project-language",
+      "targets": [
+        "codex",
+        "opencode",
+        "pi"
+      ],
+      "provenance": "local native Unix/Pi skill"
+    },
+    {
+      "name": "prove-change",
+      "group": "core",
+      "path": "skills/core/prove-change",
+      "targets": [
+        "codex",
+        "opencode",
+        "pi"
+      ],
+      "provenance": "local native Unix/Pi skill"
+    },
+    {
+      "name": "slice-plan",
+      "group": "core",
+      "path": "skills/core/slice-plan",
+      "targets": [
+        "codex",
+        "opencode",
+        "pi"
+      ],
+      "provenance": "local native Unix/Pi skill"
+    },
+    {
+      "name": "work-handoff",
+      "group": "core",
+      "path": "skills/core/work-handoff",
+      "targets": [
+        "codex",
+        "opencode",
+        "pi"
+      ],
+      "provenance": "local native Unix/Pi skill"
+    },
+    {
+      "name": "brief",
+      "group": "codex",
+      "path": "skills/catalog/codex/brief",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "burrow",
+      "group": "codex",
+      "path": "skills/catalog/codex/burrow",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "chronicle",
+      "group": "codex",
+      "path": "skills/catalog/codex/chronicle",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "cli-creator",
+      "group": "codex",
+      "path": "skills/catalog/codex/cli-creator",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "convert-plan-to-issues",
+      "group": "codex",
+      "path": "skills/catalog/codex/convert-plan-to-issues",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "define-project-glossary",
+      "group": "codex",
+      "path": "skills/catalog/codex/define-project-glossary",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "diagnose-failures",
+      "group": "codex",
+      "path": "skills/catalog/codex/diagnose-failures",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "dragon",
+      "group": "codex",
+      "path": "skills/catalog/codex/dragon",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "dwarf",
+      "group": "codex",
+      "path": "skills/catalog/codex/dwarf",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "goblin",
+      "group": "codex",
+      "path": "skills/catalog/codex/goblin",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "gremlin",
+      "group": "codex",
+      "path": "skills/catalog/codex/gremlin",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "hobbit",
+      "group": "codex",
+      "path": "skills/catalog/codex/hobbit",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "imp",
+      "group": "codex",
+      "path": "skills/catalog/codex/imp",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "implement-change-test-first",
+      "group": "codex",
+      "path": "skills/catalog/codex/implement-change-test-first",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "look",
+      "group": "codex",
+      "path": "skills/catalog/codex/look",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "map",
+      "group": "codex",
+      "path": "skills/catalog/codex/map",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "map-codebase",
+      "group": "codex",
+      "path": "skills/catalog/codex/map-codebase",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "mkskill",
+      "group": "codex",
+      "path": "skills/catalog/codex/mkskill",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "moth",
+      "group": "codex",
+      "path": "skills/catalog/codex/moth",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "ogre",
+      "group": "codex",
+      "path": "skills/catalog/codex/ogre",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "pdf",
+      "group": "codex",
+      "path": "skills/catalog/codex/pdf",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "plan-smallest-working-change",
+      "group": "codex",
+      "path": "skills/catalog/codex/plan-smallest-working-change",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "playwright",
+      "group": "codex",
+      "path": "skills/catalog/codex/playwright",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "prd",
+      "group": "codex",
+      "path": "skills/catalog/codex/prd",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "prepare-agent-handoff",
+      "group": "codex",
+      "path": "skills/catalog/codex/prepare-agent-handoff",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "ranger",
+      "group": "codex",
+      "path": "skills/catalog/codex/ranger",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "raven",
+      "group": "codex",
+      "path": "skills/catalog/codex/raven",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "research-external-code-without-copying",
+      "group": "codex",
+      "path": "skills/catalog/codex/research-external-code-without-copying",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "screenshot",
+      "group": "codex",
+      "path": "skills/catalog/codex/screenshot",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "simplify-codebase-architecture",
+      "group": "codex",
+      "path": "skills/catalog/codex/simplify-codebase-architecture",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "stress-test-plan-with-evidence",
+      "group": "codex",
+      "path": "skills/catalog/codex/stress-test-plan-with-evidence",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "triage-issues",
+      "group": "codex",
+      "path": "skills/catalog/codex/triage-issues",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "wraith",
+      "group": "codex",
+      "path": "skills/catalog/codex/wraith",
+      "targets": [
+        "codex"
+      ],
+      "provenance": "copied from ~/.codex/skills"
+    },
+    {
+      "name": "caveman",
+      "group": "opencode",
+      "path": "skills/catalog/opencode/caveman",
+      "targets": [
+        "opencode"
+      ],
+      "provenance": "copied from ~/.agents/skills"
+    },
+    {
+      "name": "diagnose",
+      "group": "opencode",
+      "path": "skills/catalog/opencode/diagnose",
+      "targets": [
+        "opencode"
+      ],
+      "provenance": "copied from ~/.agents/skills"
+    },
+    {
+      "name": "grill-me",
+      "group": "opencode",
+      "path": "skills/catalog/opencode/grill-me",
+      "targets": [
+        "opencode"
+      ],
+      "provenance": "copied from ~/.agents/skills"
+    },
+    {
+      "name": "improve-codebase-architecture",
+      "group": "opencode",
+      "path": "skills/catalog/opencode/improve-codebase-architecture",
+      "targets": [
+        "opencode"
+      ],
+      "provenance": "copied from ~/.agents/skills"
+    },
+    {
+      "name": "opentui",
+      "group": "opencode",
+      "path": "skills/catalog/opencode/opentui",
+      "targets": [
+        "opencode"
+      ],
+      "provenance": "copied from ~/.agents/skills"
+    },
+    {
+      "name": "setup-matt-pocock-skills",
+      "group": "opencode",
+      "path": "skills/catalog/opencode/setup-matt-pocock-skills",
+      "targets": [
+        "opencode"
+      ],
+      "provenance": "copied from ~/.agents/skills"
+    },
+    {
+      "name": "tdd",
+      "group": "opencode",
+      "path": "skills/catalog/opencode/tdd",
+      "targets": [
+        "opencode"
+      ],
+      "provenance": "copied from ~/.agents/skills"
+    },
+    {
+      "name": "to-issues",
+      "group": "opencode",
+      "path": "skills/catalog/opencode/to-issues",
+      "targets": [
+        "opencode"
+      ],
+      "provenance": "copied from ~/.agents/skills"
+    },
+    {
+      "name": "write-a-skill",
+      "group": "opencode",
+      "path": "skills/catalog/opencode/write-a-skill",
+      "targets": [
+        "opencode"
+      ],
+      "provenance": "copied from ~/.agents/skills"
+    },
+    {
+      "name": "zoom-out",
+      "group": "opencode",
+      "path": "skills/catalog/opencode/zoom-out",
+      "targets": [
+        "opencode"
+      ],
+      "provenance": "copied from ~/.agents/skills"
+    },
+    {
+      "name": "discovery",
+      "group": "pi",
+      "path": "skills/catalog/pi/discovery",
+      "targets": [
+        "pi"
+      ],
+      "provenance": "copied from ~/.pi/agent/skills"
+    },
+    {
+      "name": "markdown-tables",
+      "group": "pi",
+      "path": "skills/catalog/pi/markdown-tables",
+      "targets": [
+        "pi"
+      ],
+      "provenance": "copied from ~/.pi/agent/skills"
+    },
+    {
+      "name": "setup-pre-commit",
+      "group": "pi",
+      "path": "skills/catalog/pi/setup-pre-commit",
+      "targets": [
+        "pi"
+      ],
+      "provenance": "copied from ~/.pi/agent/skills"
+    }
+  ]
+}

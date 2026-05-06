@@ -1,0 +1,3 @@
+display_name: "Raven"
+short_description: "Triages work: severity, labels, owners, priority, next action."
+default_prompt: "Use raven. Classify severity, repro status, labels, owner, dependencies, and next action."

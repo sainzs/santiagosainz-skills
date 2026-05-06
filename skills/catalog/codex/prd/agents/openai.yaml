@@ -1,0 +1,4 @@
+interface:
+  display_name: "prd"
+  short_description: "Convert context into a PRD"
+  default_prompt: "Turn this context into a concise PRD with user stories, implementation decisions, testing decisions, and out-of-scope notes."

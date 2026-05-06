@@ -1,0 +1,4 @@
+name: architecture-pass
+description: Review boundaries, coupling, module depth, naming drift, and staged refactor paths.
+prompt: |
+  Use the architecture-pass skill. Ground every architecture finding in file evidence and propose staged, verifiable moves.

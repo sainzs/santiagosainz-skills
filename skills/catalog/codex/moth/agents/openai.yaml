@@ -1,0 +1,3 @@
+display_name: "Moth"
+short_description: "Extracts context: README, AGENTS, ADRs, CI, changelogs, old plans."
+default_prompt: "Use moth. Read the relevant docs and project traces, then separate current truth from stale context."

@@ -1,0 +1,3 @@
+display_name: "Define Project Glossary"
+short_description: "Create a concise glossary of project terms, aliases, states, and naming rules."
+default_prompt: "Use define-project-glossary. Extract the project vocabulary and propose concise naming guidance."

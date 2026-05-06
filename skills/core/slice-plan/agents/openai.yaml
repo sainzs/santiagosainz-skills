@@ -1,0 +1,4 @@
+name: slice-plan
+description: Break plans into independently verifiable vertical implementation slices.
+prompt: |
+  Use the slice-plan skill. Produce thin, verifiable vertical slices with dependencies and acceptance criteria.

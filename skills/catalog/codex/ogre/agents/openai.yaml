@@ -1,0 +1,5 @@
+display_name: "Ogre"
+short_description: "Patches blockers: one narrow fix, proof, no scope creep."
+default_prompt: "Use ogre. Patch only the assigned blocker, run the proof, and report changed files and risks."
+policy:
+  allow_implicit_invocation: false

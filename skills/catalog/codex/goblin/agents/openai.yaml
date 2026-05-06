@@ -1,0 +1,3 @@
+display_name: "Goblin"
+short_description: "Maps code: structure, entrypoints, scripts, runtime paths."
+default_prompt: "Use goblin. Map the repo or subsystem read-only, cite key files, and recommend next probes."

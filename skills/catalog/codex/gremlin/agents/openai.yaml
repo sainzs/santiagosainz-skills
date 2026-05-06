@@ -1,0 +1,3 @@
+display_name: "Gremlin"
+short_description: "Debugs failures: flakes, CI drift, env bugs, broken assumptions."
+default_prompt: "Use gremlin. Build a repro loop, isolate root cause, and propose or verify the smallest fix."

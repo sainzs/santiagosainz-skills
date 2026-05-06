@@ -1,0 +1,3 @@
+display_name: "Implement Change Test First"
+short_description: "Implement one behavior by writing meaningful proof first."
+default_prompt: "Use implement-change-test-first. Find the real test seam, show red, implement the smallest change, refactor while green, and validate."

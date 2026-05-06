@@ -1,0 +1,22 @@
+.DS_Store
+node_modules/
+.cache/
+tmp/
+temp/
+dist/
+build/
+coverage/
+
+# Agent/runtime state must not be vendored here.
+auth.json
+*.env
+*.pem
+*.key
+*.sqlite
+*.sqlite3
+*.db
+*.jsonl
+sessions/
+logs/
+memories/
+history.jsonl

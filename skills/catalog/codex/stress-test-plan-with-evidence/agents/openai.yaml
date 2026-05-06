@@ -1,0 +1,3 @@
+display_name: "Stress-Test Plan"
+short_description: "Challenge a plan against repo evidence before implementation."
+default_prompt: "Use stress-test-plan-with-evidence. Stress-test this plan against repo evidence and identify decisions, assumptions, risks, and the first safe change."

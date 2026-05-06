@@ -1,0 +1,5 @@
+display_name: "Imp"
+short_description: "Automates chores: tiny bounded scripts, sandboxed, no deploys."
+default_prompt: "Use imp. Run the bounded automation task, keep it contained, and report commands and touched files."
+policy:
+  allow_implicit_invocation: false

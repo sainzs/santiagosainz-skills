@@ -1,0 +1,3 @@
+display_name: "Plan Smallest Working Change"
+short_description: "Turn a goal into the smallest useful change that can be verified."
+default_prompt: "Use plan-smallest-working-change. Produce a grounded file plan, data flow, tests, rollback path, validation commands, and first edit."
