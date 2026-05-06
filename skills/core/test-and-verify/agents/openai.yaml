@@ -1,0 +1,4 @@
+name: test-and-verify
+description: Test and verify one behavior with a tight proof loop and concrete evidence.
+prompt: |
+  Use the test-and-verify skill. Build the smallest behavior proof, edit minimally, and verify with exact commands.

@@ -1,9 +1,9 @@
 ---
-name: architecture-pass
-description: Review a codebase area for maintainability risks, boundary leaks, naming drift, shallow modules, missing contracts, and staged refactors. Use when the user asks to simplify architecture or make a repo easier for agents and humans to change.
+name: architecture-review
+description: Review architecture for maintainability risks, boundary leaks, naming drift, shallow modules, missing contracts, and staged refactors. Use when the user asks to review architecture, simplify architecture, reduce coupling, or use architecture-pass.
 ---
 
-# architecture-pass
+# architecture-review
 
 Find the smallest structural moves that improve future change.
 

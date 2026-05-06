@@ -1,0 +1,4 @@
+name: debug
+description: Debug failures with reproduce-minimize-hypothesize-fix-regression proof.
+prompt: |
+  Use the debug skill. Reproduce first, isolate root cause, fix narrowly, and verify the original symptom.

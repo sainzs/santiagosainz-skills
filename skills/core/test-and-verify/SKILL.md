@@ -1,9 +1,9 @@
 ---
-name: prove-change
-description: Implement or verify one behavior through a tight proof loop: baseline, failing proof when useful, minimal edit, and evidence. Use for TDD, regression-proofing, acceptance tests, smoke checks, and launch/readiness validation.
+name: test-and-verify
+description: Test and verify one behavior through a tight evidence loop: baseline, failing proof when useful, minimal edit, and final proof. Use for tests, verification, TDD, regression-proofing, smoke checks, readiness validation, or prove-change.
 ---
 
-# prove-change
+# test-and-verify
 
 Ship one behavior with evidence.
 

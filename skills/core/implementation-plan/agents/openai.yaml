@@ -1,0 +1,4 @@
+name: implementation-plan
+description: Break plans into ordered, independently verifiable implementation work.
+prompt: |
+  Use the implementation-plan skill. Produce thin, verifiable work items with dependencies and acceptance criteria.

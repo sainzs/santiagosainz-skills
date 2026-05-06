@@ -1,0 +1,4 @@
+name: requirements-review
+description: Review requirements and turn fuzzy change intent into decisions, constraints, and a first executable step.
+prompt: |
+  Use the requirements-review skill. Resolve only the ambiguity that blocks a safe first implementation step, then move toward execution when possible.

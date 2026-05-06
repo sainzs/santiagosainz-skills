@@ -1,4 +1,0 @@
-name: project-language
-description: Extract and maintain concise project vocabulary from repo evidence.
-prompt: |
-  Use the project-language skill. Ground terminology in source, tests, docs, ADRs, and the user's words.

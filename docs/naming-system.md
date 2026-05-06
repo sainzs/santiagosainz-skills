@@ -17,27 +17,27 @@ Prefer:
 - familiar daily-use terms
 - descriptions that include casual trigger phrases and old aliases
 
-## Recommended Core Names
+## Current Core Names
 
-| Current | Recommended | Primary job |
+| Old | Current | Primary job |
 |---|---|---|
-| `align-change` | `requirements-analysis` | Clarify intent, constraints, risks, and first executable behavior. |
+| `align-change` | `requirements-review` | Clarify intent, constraints, risks, and first executable behavior. |
 | `project-language` | `domain-modeling` | Normalize domain vocabulary, states, entities, and naming. |
 | `architecture-pass` | `architecture-review` | Identify structural risk and staged refactor moves. |
-| `slice-plan` | `execution-planning` | Turn intent into ordered, independently verifiable work. |
-| `prove-change` | `verification-engineering` | Design and run the proof that behavior works. |
-| `debug-loop` | `debugging` | Reproduce, isolate, fix, and regression-proof failures. |
-| `work-handoff` | `engineering-record` | Preserve evidence, decisions, current state, and restart context. |
+| `slice-plan` | `implementation-plan` | Turn intent into ordered, independently verifiable work. |
+| `prove-change` | `test-and-verify` | Design and run the proof that behavior works. |
+| `debug-loop` | `debug` | Reproduce, isolate, fix, and regression-proof failures. |
+| `work-handoff` | `handoff` | Preserve evidence, decisions, current state, and restart context. |
 
 ## Why These Names
 
-- `requirements-analysis` is clearer than `align-change` because it names the pre-build engineering activity.
+- `requirements-review` is clearer than `align-change` because it names the pre-build engineering activity in language users already say.
 - `domain-modeling` is stronger than `project-language` because it covers terms, states, relationships, and system concepts.
 - `architecture-review` is more recognizable than `architecture-pass`.
-- `execution-planning` avoids `slice`, while still implying ordered, implementable work.
-- `verification-engineering` is broader than `test-and-verify`; it covers tests, smoke checks, readiness, acceptance proof, and operational evidence.
-- `debugging` should stay plain. It is already intuitive.
-- `engineering-record` is more durable than `handoff`; it captures the artifact, not only the act of transfer.
+- `implementation-plan` avoids `slice`, while still implying ordered, implementable work.
+- `test-and-verify` is more obvious than `prove-change` or `verification-engineering`; the description carries the broader readiness meaning.
+- `debug` should stay plain. It is already intuitive.
+- `handoff` is shorter and easier to ask for than `engineering-record`; the description carries the durability requirement.
 
 ## Trigger Description Pattern
 
@@ -50,7 +50,7 @@ description: <Workflow verb/object>. Use when the user asks for <natural phrases
 Example:
 
 ```yaml
-description: Analyze requirements before implementation. Use when the user asks to clarify scope, review requirements, resolve ambiguity, identify constraints, find the first executable slice, or use align-change.
+description: Review requirements before implementation. Use when the user asks to clarify scope, review requirements, resolve ambiguity, identify constraints, find the first executable step, or use align-change.
 ```
 
 ## Alias Policy
@@ -68,17 +68,18 @@ description: Analyze requirements before implementation. Use when the user asks 
 | `slice` | Useful jargon, but unclear outside backlog planning. |
 | `prove` | Too compressed; users may not connect it to tests/readiness. |
 | `name-things` | Friendly, but less engineering-polymath than `domain-modeling`. |
-| `test-and-verify` | Clear, but narrower than verification engineering. |
-| `work-breakdown` | Clear, but less lifecycle-oriented than execution planning. |
+| `verification-engineering` | Accurate but too formal for daily invocation. |
+| `work-breakdown` | Clear, but less lifecycle-oriented than implementation planning. |
+| `engineering-record` | Accurate but less natural than asking for a handoff. |
 
 ## Final Core Sequence
 
 ```text
-requirements-analysis
+requirements-review
 domain-modeling
 architecture-review
-execution-planning
-verification-engineering
-debugging
-engineering-record
+implementation-plan
+test-and-verify
+debug
+handoff
 ```

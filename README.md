@@ -4,13 +4,13 @@ Portable agent skills for Codex, OpenCode, and Pi.
 
 This repo packages a skill catalog around a small native core:
 
-- `align-change`
-- `project-language`
-- `slice-plan`
-- `prove-change`
-- `debug-loop`
-- `architecture-pass`
-- `work-handoff`
+- `requirements-review`
+- `domain-modeling`
+- `architecture-review`
+- `implementation-plan`
+- `test-and-verify`
+- `debug`
+- `handoff`
 
 The core skills follow the Unix/Pi doctrine: one job, text-in/text-out, explicit inputs and outputs, honest capability boundaries, bounded output, on-demand loading, and a changed approach after two repeated failures.
 

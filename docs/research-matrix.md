@@ -17,7 +17,7 @@
 
 | Area | Finding | Recommendation |
 |---|---|---|
-| Core names | Current names are functional but not polished: `align-change`, `project-language`, `slice-plan`, `prove-change`, `debug-loop`, `architecture-pass`, `work-handoff`. | Rename to engineering workflow names with old aliases in descriptions. |
+| Core names | Original names were functional but not polished: `align-change`, `project-language`, `slice-plan`, `prove-change`, `debug-loop`, `architecture-pass`, `work-handoff`. | Use intuitive engineering workflow names with old aliases in descriptions. |
 | Codex catalog | Contains workflow duplicates and useful specialized tools. | Keep specialized tools; migrate duplicate workflow skills to aliases/archive. |
 | OpenCode catalog | Contains Matt Pocock workflow skills plus native core. | Prefer core for local work; keep Matt skills for deep doctrine or explicit tracker publishing. |
 | Pi catalog | Has only three specialized skills and lacks core skills in the live runtime. | Install core to Pi and update Pi adapter docs before broad cleanup. |

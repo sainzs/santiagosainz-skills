@@ -1,9 +1,9 @@
 ---
-name: project-language
-description: Build or refresh a compact project glossary from code, docs, ADRs, tests, and user vocabulary so agents use the codebase's real domain language. Use when names, concepts, acronyms, states, or business terms are drifting or verbose.
+name: domain-modeling
+description: Model the domain language, entities, states, aliases, and naming rules from code, docs, ADRs, tests, and user vocabulary. Use when the user asks for glossary work, naming cleanup, project vocabulary, system concepts, or project-language.
 ---
 
-# project-language
+# domain-modeling
 
 Make the agent speak the project language instead of inventing one.
 

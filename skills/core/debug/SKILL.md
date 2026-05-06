@@ -1,9 +1,9 @@
 ---
-name: debug-loop
-description: Diagnose a failing command, bug, flake, runtime error, wrong output, or performance regression with evidence: reproduce, minimize, hypothesize, instrument, fix, and regression-test.
+name: debug
+description: Debug a failing command, bug, flake, runtime error, wrong output, or performance regression with evidence: reproduce, minimize, hypothesize, instrument, fix, and regression-test. Use when the user asks to debug, diagnose, fix a failure, or use debug-loop.
 ---
 
-# debug-loop
+# debug
 
 Find root cause before changing code.
 

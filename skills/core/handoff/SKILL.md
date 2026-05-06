@@ -1,9 +1,9 @@
 ---
-name: work-handoff
-description: Write durable handoff state for ongoing agent work: changed files, current goal, evidence, risks, blocked items, and restart prompt. Use before pausing, compacting context, switching tools, or ending a long session.
+name: handoff
+description: Write a durable engineering handoff for ongoing agent work: changed files, current goal, evidence, risks, blocked items, and restart prompt. Use before pausing, compacting context, switching tools, ending a long session, or using work-handoff.
 ---
 
-# work-handoff
+# handoff
 
 Leave the next agent with enough truth to continue without archaeology.
 

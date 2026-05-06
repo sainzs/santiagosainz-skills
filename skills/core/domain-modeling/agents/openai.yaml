@@ -1,0 +1,4 @@
+name: domain-modeling
+description: Extract and maintain concise domain vocabulary, entities, states, and naming rules from repo evidence.
+prompt: |
+  Use the domain-modeling skill. Ground terminology in source, tests, docs, ADRs, and the user's words.

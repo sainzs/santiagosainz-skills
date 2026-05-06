@@ -7,13 +7,13 @@ Goal: make the core skill names read like an engineering workflow.
 Changes:
 
 - Rename folders and frontmatter to:
-  - `requirements-analysis`
+  - `requirements-review`
   - `domain-modeling`
   - `architecture-review`
-  - `execution-planning`
-  - `verification-engineering`
-  - `debugging`
-  - `engineering-record`
+  - `implementation-plan`
+  - `test-and-verify`
+  - `debug`
+  - `handoff`
 - Add old aliases to descriptions.
 - Update `catalog.json`, README, adapters, and docs.
 

@@ -14,9 +14,9 @@
   },
   "skills": [
     {
-      "name": "align-change",
+      "name": "architecture-review",
       "group": "core",
-      "path": "skills/core/align-change",
+      "path": "skills/core/architecture-review",
       "targets": [
         "codex",
         "opencode",
@@ -25,9 +25,9 @@
       "provenance": "local native Unix/Pi skill"
     },
     {
-      "name": "architecture-pass",
+      "name": "debug",
       "group": "core",
-      "path": "skills/core/architecture-pass",
+      "path": "skills/core/debug",
       "targets": [
         "codex",
         "opencode",
@@ -36,9 +36,9 @@
       "provenance": "local native Unix/Pi skill"
     },
     {
-      "name": "debug-loop",
+      "name": "domain-modeling",
       "group": "core",
-      "path": "skills/core/debug-loop",
+      "path": "skills/core/domain-modeling",
       "targets": [
         "codex",
         "opencode",
@@ -47,9 +47,9 @@
       "provenance": "local native Unix/Pi skill"
     },
     {
-      "name": "project-language",
+      "name": "handoff",
       "group": "core",
-      "path": "skills/core/project-language",
+      "path": "skills/core/handoff",
       "targets": [
         "codex",
         "opencode",
@@ -58,9 +58,9 @@
       "provenance": "local native Unix/Pi skill"
     },
     {
-      "name": "prove-change",
+      "name": "implementation-plan",
       "group": "core",
-      "path": "skills/core/prove-change",
+      "path": "skills/core/implementation-plan",
       "targets": [
         "codex",
         "opencode",
@@ -69,9 +69,9 @@
       "provenance": "local native Unix/Pi skill"
     },
     {
-      "name": "slice-plan",
+      "name": "requirements-review",
       "group": "core",
-      "path": "skills/core/slice-plan",
+      "path": "skills/core/requirements-review",
       "targets": [
         "codex",
         "opencode",
@@ -80,9 +80,9 @@
       "provenance": "local native Unix/Pi skill"
     },
     {
-      "name": "work-handoff",
+      "name": "test-and-verify",
       "group": "core",
-      "path": "skills/core/work-handoff",
+      "path": "skills/core/test-and-verify",
       "targets": [
         "codex",
         "opencode",

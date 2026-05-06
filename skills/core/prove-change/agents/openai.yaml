@@ -1,4 +1,0 @@
-name: prove-change
-description: Implement or verify one behavior with a tight proof loop and concrete evidence.
-prompt: |
-  Use the prove-change skill. Build the smallest behavior proof, edit minimally, and verify with exact commands.

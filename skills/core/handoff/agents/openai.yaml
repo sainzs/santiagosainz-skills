@@ -1,0 +1,4 @@
+name: handoff
+description: Preserve durable task state for pauses, compaction, and Codex/OpenCode/Pi handoffs.
+prompt: |
+  Use the handoff skill. Capture goal, changed files, evidence, risks, next steps, and a restart prompt.
