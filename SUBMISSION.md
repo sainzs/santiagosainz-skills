@@ -3,11 +3,12 @@
 ## Current Status
 
 - Local release tag: `v0.1.0`
-- Local commit: `76babcd`
+- Local commit: `9dbaa68`
 - Release bundle: `dist/santiagosainz-skills-v0.1.0.tar.gz`
 - Validation:
   - `scripts/validate-catalog.sh`
   - `scripts/install.sh --dry-run`
+  - `docs/examples/codex-test-and-verify-transcript.md`
 
 GitHub publication is blocked for the currently authenticated account because
 `ssainz_adobe` is an Enterprise Managed User and GitHub does not permit public
