@@ -1,3 +1,0 @@
-display_name: "Research External Code Without Copying"
-short_description: "Study external codebases while preserving clean-room boundaries."
-default_prompt: "Use research-external-code-without-copying. Study the source, capture behavior and interfaces, record license notes, and list what not to copy."

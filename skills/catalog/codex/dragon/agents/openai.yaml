@@ -1,3 +1,0 @@
-display_name: "Dragon"
-short_description: "Leads: plan, coordinate agents, integrate evidence, make final calls."
-default_prompt: "Use dragon. Integrate the evidence, choose the next move, and state validation and risks."

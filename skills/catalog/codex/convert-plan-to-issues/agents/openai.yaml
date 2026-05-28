@@ -1,3 +1,0 @@
-display_name: "Convert Plan To Issues"
-short_description: "Turn a plan or PRD into independently grabbable vertical issues."
-default_prompt: "Use convert-plan-to-issues. Split this plan into vertical issues with acceptance criteria, validation commands, dependencies, and labels."

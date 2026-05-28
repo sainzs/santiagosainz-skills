@@ -1,4 +1,0 @@
-interface:
-  display_name: "map"
-  short_description: "Orient around system context"
-  default_prompt: "Map this area of the system: ownership, call paths, invariants, edit points, and verification path."

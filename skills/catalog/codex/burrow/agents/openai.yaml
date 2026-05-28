@@ -1,3 +1,0 @@
-display_name: "Burrow"
-short_description: "Hands off state: SITREP, changed files, risks, restart prompt."
-default_prompt: "Use burrow. Create a SITREP with changed files, commands, decisions, risks, next steps, and restart prompt."

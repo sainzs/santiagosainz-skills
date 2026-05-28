@@ -1,4 +1,0 @@
-interface:
-  display_name: "look"
-  short_description: "Review UI visuals and screenshots"
-  default_prompt: "Review this visual surface or compare these screenshots for layout, polish, accessibility, and likely fixes."

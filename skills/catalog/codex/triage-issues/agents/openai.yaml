@@ -1,3 +1,0 @@
-display_name: "Triage Issues"
-short_description: "Classify issues by severity, reproduction status, area, labels, owner, and next action."
-default_prompt: "Use triage-issues. Triage this issue with evidence and recommend the next action."

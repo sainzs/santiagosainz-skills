@@ -1,3 +1,0 @@
-display_name: "Map Codebase"
-short_description: "Map an unfamiliar repo or subsystem before edits."
-default_prompt: "Use map-codebase. Map this repo read-only, including architecture, key files, commands, risks, and next probes."

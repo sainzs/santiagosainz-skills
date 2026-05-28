@@ -1,12 +1,22 @@
 # Provenance
 
-This catalog has three source streams:
+This repository publishes only the original portable core skills under MIT.
 
-- `core`: skills authored/adapted locally for Codex, OpenCode, and Pi.
-- `codex`: skills copied from the local Codex skill root.
-- `opencode`: skills copied from the global/OpenCode skill root.
-- `pi`: skills copied from the local Pi skill root.
+## Published Source Stream
 
-Third-party or adapted skills are preserved with their existing files. This repo does not yet claim a clean public licensing posture for every catalog entry.
+- `core`: skills authored locally for Codex, OpenCode, and Pi.
+- `adapters`: runtime notes authored locally for Codex, OpenCode, and Pi.
+- `docs`: product, compatibility, evaluation, roadmap, and application notes authored locally.
 
-Before publishing publicly, review each non-core skill for license, attribution, and redistribution terms.
+## Excluded Source Streams
+
+Earlier local drafts included copied runtime catalogs from local Codex, OpenCode,
+and Pi skill roots. Those catalogs are not part of the public manifest and are
+excluded from the public-ready tree to keep licensing, provenance, and review
+scope simple.
+
+## Redistribution Rule
+
+Do not add third-party or copied skills to this repository unless their license,
+attribution, and redistribution terms are documented in this file and the
+manifest marks their provenance explicitly.

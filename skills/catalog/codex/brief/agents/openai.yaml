@@ -1,4 +1,0 @@
-interface:
-  display_name: "brief"
-  short_description: "Use terse low-token responses"
-  default_prompt: "Switch to brief mode: terse, technical, accurate, no filler."

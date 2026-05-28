@@ -1,3 +1,0 @@
-display_name: "Ranger"
-short_description: "Researches outside: OSS, APIs, behavior, licenses, no copied code."
-default_prompt: "Use ranger. Extract behavior, interfaces, tests, tradeoffs, and license notes without copying code."

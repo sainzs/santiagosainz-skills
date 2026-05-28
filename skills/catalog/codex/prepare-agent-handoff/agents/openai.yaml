@@ -1,3 +1,0 @@
-display_name: "Prepare Agent Handoff"
-short_description: "Capture durable session state for another agent or future resume."
-default_prompt: "Use prepare-agent-handoff. Create a SITREP with changed files, commands, evidence, decisions, risks, next steps, and a restart prompt."

@@ -1,3 +1,0 @@
-display_name: "Dwarf"
-short_description: "Shapes architecture: boundaries, ownership, coupling, module depth."
-default_prompt: "Use dwarf. Find load-bearing architecture risks and propose small no-big-bang repairs."
