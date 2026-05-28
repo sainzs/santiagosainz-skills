@@ -85,6 +85,7 @@ portable and make it easier to compare behavior across runtimes.
 - [Runtime adapters](docs/runtime-adapters.md)
 - [Evaluation rubric](docs/evaluation-rubric.md)
 - [Prompt-routing cases](docs/prompt-routing-cases.md)
+- [Initial maintenance issues](docs/maintenance-issues.md)
 - [Research matrix](docs/research-matrix.md)
 - [Roadmap](docs/roadmap.md)
 - [Release checklist](docs/release-checklist.md)

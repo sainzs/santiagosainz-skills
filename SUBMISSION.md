@@ -18,15 +18,15 @@ repository creation for that account.
 
 - Public-capable GitHub account or organization.
 - ChatGPT account email for the application.
-- OpenAI organization ID from `platform.openai.com/settings/organization`.
+- OpenAI organization ID: `org-qj4lo0GPnF359xAeS0iTUU3f` (`Personal`).
 
 ## Publish Commands
 
-After authenticating `gh` with a public-capable GitHub account:
+After authenticating `gh` with the public-capable `sainzs` GitHub account:
 
 ```sh
 cd /Users/ssainz/Code/santiagosainz-skills
-scripts/publish-public.sh
+scripts/publish-public.sh sainzs
 ```
 
 If the repo name should live under a specific owner:
@@ -34,6 +34,11 @@ If the repo name should live under a specific owner:
 ```sh
 scripts/publish-public.sh OWNER
 ```
+
+The currently authenticated CLI account is `ssainz_adobe`. GitHub rejects public
+repository creation for that Enterprise Managed User, including attempts to
+create under `sainzs`, so `gh auth login` or `gh auth switch` must point to the
+personal/public-capable account first.
 
 ## Codex for OSS Form Answers
 
@@ -78,3 +83,8 @@ Character count: 266.
 Official form:
 
 https://openai.com/form/codex-for-oss/
+
+## Known Public Namespace
+
+- `sainzs/random-access-themes` is public.
+- `sainzs/santiagosainz-skills` does not exist yet.

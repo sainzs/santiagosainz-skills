@@ -25,7 +25,7 @@ Open Source application.
 - GitHub profile is public.
 - Repository URL is public.
 - Applicant role is primary maintainer.
-- OpenAI organization ID is available.
+- OpenAI organization ID is available: `org-qj4lo0GPnF359xAeS0iTUU3f`.
 - ChatGPT account email is available.
 - Eligibility answer fits within 500 characters.
 - API-credit usage answer fits within 500 characters.
