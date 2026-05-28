@@ -4,6 +4,7 @@
 
 - Local release tag: `v0.1.0`
 - Current commit: run `git rev-parse --short HEAD`
+- Public repository: `https://github.com/sainzs/santiagosainz-skills`
 - Release bundle: `dist/santiagosainz-skills-v0.1.0.tar.gz`
 - Validation:
   - `scripts/validate-catalog.sh`
@@ -84,7 +85,7 @@ Official form:
 
 https://openai.com/form/codex-for-oss/
 
-## Known Public Namespace
+## Public Repository
 
-- `sainzs/random-access-themes` is public.
-- `sainzs/santiagosainz-skills` does not exist yet.
+- Repository: https://github.com/sainzs/santiagosainz-skills
+- Release tag: https://github.com/sainzs/santiagosainz-skills/releases/tag/v0.1.0

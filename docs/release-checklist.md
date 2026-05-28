@@ -11,7 +11,7 @@ Open Source application.
 
 ## Public Repository Checks
 
-- Repository is public.
+- Repository is public: https://github.com/sainzs/santiagosainz-skills
 - README explains the maintainer workflow and install path.
 - License is present.
 - Provenance says which files are original and what is excluded.
