@@ -3,7 +3,7 @@
 ## Current Status
 
 - Local release tag: `v0.1.0`
-- Local commit: `9dbaa68`
+- Current commit: run `git rev-parse --short HEAD`
 - Release bundle: `dist/santiagosainz-skills-v0.1.0.tar.gz`
 - Validation:
   - `scripts/validate-catalog.sh`
@@ -26,25 +26,13 @@ After authenticating `gh` with a public-capable GitHub account:
 
 ```sh
 cd /Users/ssainz/Code/santiagosainz-skills
-gh repo create santiagosainz-skills \
-  --public \
-  --description "Portable engineering workflow skills for Codex, OpenCode, and Pi" \
-  --source=. \
-  --remote=origin \
-  --push
-git push origin v0.1.0
+scripts/publish-public.sh
 ```
 
 If the repo name should live under a specific owner:
 
 ```sh
-gh repo create OWNER/santiagosainz-skills \
-  --public \
-  --description "Portable engineering workflow skills for Codex, OpenCode, and Pi" \
-  --source=. \
-  --remote=origin \
-  --push
-git push origin v0.1.0
+scripts/publish-public.sh OWNER
 ```
 
 ## Codex for OSS Form Answers
